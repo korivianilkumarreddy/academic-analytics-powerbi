@@ -1,48 +1,66 @@
-# 🎓 Academic Analytics Dashboard (Power BI)
+# 🎓 Academic Analytics – Power BI Project
 
-This repository contains a **Power BI Template (`.pbit`)** for analyzing academic performance and placement trends of students.  
-The project provides **actionable insights** for faculty, management, and students using interactive dashboards.
-
----
-
-## 📊 Key Dashboards
-- **Splash & Home Page** → Simple navigation for end users.  
-- **Student Dashboard** → Marks, ranks, subject-wise analysis, top/bottom performers.  
-- **Faculty Dashboard** → Subject-level teaching performance and evaluation.  
-- **Academic Calendar** → Semester schedules & activity insights.  
-- **Placement Dashboard** → On-campus vs off-campus hiring, company-wise average CTC, salary trends.  
-- **Info & Support Pages** → Higher authority info + full list of DAX formulas used.  
+This Power BI project provides **academic insights** using student performance, faculty feedback, academic calendar, and placement data.  
+The project includes a **Power BI template**, **PDF export of dashboards**, and a **live Power BI Service link** for interactive exploration.
 
 ---
 
-## 🛠️ Tech Stack
-- **Power BI Desktop** – Data modeling & dashboards  
-- **DAX** – Calculated measures for rankings, top/bottom analysis, aggregations  
-- **Excel** – Raw data source (students, faculty, placements, academic activities)  
+## 📂 Project Contents
+
+### 1. Power BI Template
+- **File:** `Template/Academic_Analytics.pbit`  
+- Open this template in **Power BI Desktop** to explore dashboards and interact with reports.  
+
+### 2. Dashboard PDF
+- **File:** `Screenshots/Academic_Analytics.pdf`  
+- A PDF export of the dashboards for quick reference without opening Power BI.  
+
+### 3. Dataset
+- **Folder:** `Dataset/`  
+- Contains Excel files used in this project.  
+- **Key Tables:**
+  - `fact_student_marks.xlsx` → Students’ marks in different subjects.  
+  - `fact_attendance.xlsx` → Student attendance details.  
+  - `dim_student.xlsx` → Student master details (ID, Name, Section).  
+  - `dim_subject.xlsx` → Subject-wise faculty assignments.  
+  - `fact_faculty_feedback.xlsx` → Feedback on teaching quality, knowledge, punctuality.  
+  - `fact_placement.xlsx` → Placement details with company names, CTC, campus type.  
+  - `dim_academic_calendar.xlsx` → Academic activities/events.  
 
 ---
 
 ## 🚀 How to Use
-1. Download the `.pbit` file from this repo.  
-2. Open it in **Power BI Desktop**.  
-3. When prompted, connect it to your academic/placement dataset.  
-4. Dashboards will auto-refresh and adapt to your data.  
+1. Clone or download this repository.  
+2. Open `Template/Academic_Analytics.pbit` in **Power BI Desktop**.  
+3. Connect to the Excel files in the `Dataset/` folder if prompted.  
+4. Explore the interactive dashboards.  
 
 ---
 
-## 📌 Features
-✅ Student ranking and performance insights  
-✅ Section & subject level breakdowns  
-✅ Placement analysis (top recruiters, average CTC, off-campus vs on-campus)  
-✅ Calendar-based academic activity tracking  
-✅ Reusable template for any educational institution  
+## 📊 Dashboards & Insights
+- **Splash & Home Page** → Navigation entry point.  
+- **Student Dashboard** → Marks, ranks, pass/fail trends, attendance.  
+- **Faculty Dashboard** → Attendance %, feedback, performance index, ranking.  
+- **Marks Analysis Dashboard** → Subject-wise marks, toppers, averages.  
+- **Academic Calendar** → Key semester events & planning view.  
+- **Placement Dashboard** → On-campus vs off-campus, company-wise hiring, top/bottom recruiters.  
+- **Info Dashboard** → Higher authority faculty details.  
+- **Support Dashboard** → All DAX formulas used.  
 
 ---
 
-## 📷 Screenshots
-*(Add your own screenshots in the `screenshots/` folder and update below)*  
+## 🔗 Demo & Live Links  
+- 🌐 **Power BI Service (Live Dashboard):** [View Dashboard]([YOUR_POWERBI_LINK_HERE](https://app.powerbi.com/reportEmbed?reportId=5623568a-1440-4719-8054-6bbea8889e04&appId=c91a7c64-65ed-4580-8807-802a392facec&autoAuth=true&ctid=83ce6924-5bf7-417e-9afc-c19d8b6dc008))  
+- 🎥 **Presentation/Demo Video:** [Watch Here](YOUR_PRESENTATION_LINK_HERE)  
 
-```markdown
-![Home Dashboard](screenshots/home_dashboard.png)
-![Student Dashboard](screenshots/student_dashboard.png)
-![Placement Dashboard](screenshots/placement_dashboard.png)
+---
+
+## 📝 Notes
+- All datasets are **sample academic data** created for learning/demo purposes.  
+- You can replace them with your own institutional data if needed.  
+- Project demonstrates **Power BI modeling, DAX, and storytelling with visuals**.  
+
+---
+
+## 👤 Contributor
+- **Anil Kumar Reddy Korivi** – Developer & Analyst  
