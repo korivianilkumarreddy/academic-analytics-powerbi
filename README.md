@@ -50,7 +50,7 @@ The project includes a **Power BI template**, **PDF export of dashboards**, and 
 ---
 
 ## 🔗 Demo & Live Links  
-- 🌐 **Power BI Service (Live Dashboard):** [View Dashboard]([YOUR_POWERBI_LINK_HERE](https://app.powerbi.com/reportEmbed?reportId=5623568a-1440-4719-8054-6bbea8889e04&appId=c91a7c64-65ed-4580-8807-802a392facec&autoAuth=true&ctid=83ce6924-5bf7-417e-9afc-c19d8b6dc008))  
+- 🌐 **Power BI Service (Live Dashboard):** [View Dashboard](https://app.powerbi.com/reportEmbed?reportId=5623568a-1440-4719-8054-6bbea8889e04&appId=c91a7c64-65ed-4580-8807-802a392facec&autoAuth=true&ctid=83ce6924-5bf7-417e-9afc-c19d8b6dc008)  
 - 🎥 **Presentation/Demo Video:** [Watch Here](YOUR_PRESENTATION_LINK_HERE)  
 
 ---
