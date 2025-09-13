@@ -1,0 +1,26 @@
+faculty_id,faculty_name,subject,section
+1,suraj sharma,Major Project,A
+2,hema,Maths,A
+3,vani agarwal,Data Analytics,A
+4,vanshitha ,Cloud Computing,A
+5,neeraj,Java Full Stack,A
+6,rinki bhadoriya,Major Project,B
+7,sisodaya,Maths,B
+8,ratnesh,Data Analytics,B
+9,geethanjali,Cloud Computing,B
+10,manali,Java Full Stack,B
+11,nidhi,Major Project,C
+12,chandha,Maths,C
+13,verma,Data Analytics,C
+14,apurv,Cloud Computing,C
+15,alok,Java Full Stack,C
+16,ravi sharma,Major Project,D
+17,shivani agarwal,Maths,D
+18,kush,Data Analytics,D
+19,naveen,Cloud Computing,D
+20,inthikab,Java Full Stack,D
+21,manoj sharma,Major Project,E
+22,pragya jain,Maths,E
+23,ayushi,Data Analytics,E
+24,praveen gupta,Cloud Computing,E
+25,shruthi ,Java Full Stack,E

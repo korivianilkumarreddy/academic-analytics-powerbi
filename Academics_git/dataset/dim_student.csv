@@ -1,0 +1,301 @@
+student_id,student_name,section
+1,Abhinav Singh Bhadauriya,A
+2,Aditya Bhadouria,A
+3,AJAY BANSAL,A
+4,Ajay Singh Tomar,A
+5,Akansha Sikarwar,A
+6,Aman Dwivedi,A
+7,Aniket Mewafarosh,A
+8,Anil kumar Reddy korivi,A
+9,ANIL KUMAR VENNAPUREDDY,A
+10,Ankit Kumar,A
+11,Ankita Sinha,A
+12,Anubhav Sharma,A
+13,Anubhavi Singh,A
+14,ANUJ YADAV,A
+15,Anurag Singh Bhadoriya,A
+16,Aryan Saxena,A
+17,Avni Gupta,A
+18,ayan saxena,A
+19,Channa Krishna Arnuri,A
+20,Cheekati Johnson,A
+21,Daksh Jha,A
+22,DIVYA TOMAR,A
+23,Divyansh Bansal,A
+24,Gunja Chauhan,A
+25,Gunjan Yadav,A
+26,HIMANSHU SINGHAL,A
+27,Himanshu Upadhyay,A
+28,Hritika Chaturvedi,A
+29,Jhanvi Gurjar,A
+30,Kajal kirar,A
+31,Karnika gupta,A
+32,Kartik Agrawal,A
+33,Kartik Mittal,A
+34,Kashish Dabhowale,A
+35,Kaushiki Katara,A
+36,Kishan singh Tomar,A
+37,Kunal Jha,A
+38,MOHAMMAD FARHAN,A
+39,Nandani Bansal,A
+40,Nithin Reddy Papasani,A
+41,Pawan Shrivas,A
+42,PIYUSH SINGH TOMAR,A
+43,Praagya Chaturvedi,A
+44,PRANUSHA LAKKAVATHRI,A
+45,Preeti Prajapati,A
+46,Radhika Agarwal,A
+47,Rakshita Harne,A
+48,Ritika Rani,A
+49,Sai Pragathi Sagiraju,A
+50,Sandela Uday Maruthi,A
+51,Sapna Dhakar,A
+52,Saurabh Lakshkar,A
+53,Shaik Farzana,A
+54,Shalini Jadon,A
+55,Shirani Singhal,A
+56,Shivani Parmar,A
+57,SHREYA MARATHE,A
+58,Siddharth Khare,A
+59,sneha jain,A
+60,Sneha Rajput,A
+61,Somya Saxena,B
+62,Sweta Raj,B
+63,Umang sharma,B
+64,VAISHNAVI TRIPATHI,B
+65,Vanshika Purohit,B
+66,Vanshita Shrivastava,B
+67,Varun Kumar Kodati,B
+68,Vidushi Dodia,B
+69,Vikash Dhakar,B
+70,Vinay singh tomar,B
+71,Yamini Chauhan,B
+72,Yashi Tripathi,B
+73,KULDEEP SINGH,B
+74,Divya,B
+75,Dheeraj ,B
+76,Anmol,B
+77,Mahendra ,B
+78,shahzan,B
+79,Naman,B
+80,Avni,B
+81,Naga  Asrith Sai,B
+82,Aryan,B
+83,Vanshika ,B
+84,Rakshita,B
+85,Saurav,B
+86,Nikhil ,B
+87,Channa ,B
+88,Ankit ,B
+89,Piyush ,B
+90,Devesh,B
+91,Yamini,B
+92,Sita Sharma,B
+93,Ravi Patel,B
+94,Priya Kumar,B
+95,Kiran Singh,B
+96,Neha Verma,B
+97,Vikram Gupta,B
+98,Tanya Naidu,B
+99,Raj Mehta,B
+100,Asha Das,B
+101,nani,B
+102,chinna,B
+103,sathish,B
+104,ramya,B
+105,radha,B
+106,vanshitha ,B
+107,sneha,B
+108,kowshiki,B
+109,divya,B
+110,sasidhar,B
+111,vamshi,B
+112,ganesh,B
+113,pal,B
+114,jagan,B
+115,kcr,B
+116,chandra babu,B
+117,anushka,B
+118,tamanna,B
+119,samantha,B
+120,ntr,B
+121,rajamouli,C
+122,chitti,C
+123,parnika,C
+124,Pawan Shrivas,C
+125,chinni,C
+126,taju,C
+127,amardeep,C
+128,mask man,C
+129,kajol,C
+130,prasanna,C
+131,sitha,C
+132,deekshitha,C
+133,navya,C
+134,varsha,C
+135,anjali,C
+136,neha,C
+137,varshini,C
+138,pranusha,C
+139,pragathi,C
+140,alia,C
+141,govindh,C
+142,saraswathi,C
+143,deepu,C
+144,sowmya,C
+145,chandu,C
+146,tony,C
+147,dhanush,C
+148,venky,C
+149,satya,C
+150,manju,C
+151,mani,C
+152,babe,C
+153,priyanka,C
+154,shobha shetty,C
+155,abhijeet,C
+156,navadeep,C
+157,bindhu,C
+158,sanju,C
+159,virat,C
+160,dhawan,C
+161,smith,C
+162,abhiskek,C
+163,head,C
+164,klaseen,C
+165,ishan,C
+166,nithish,C
+167,harsh,C
+168,shami,C
+169,pat,C
+170,mendis,C
+171,sachin,C
+172,atarwa,C
+173,simarjeet,C
+174,rahul,C
+175,zampa,C
+176,rohit,C
+177,surya,C
+178,hardik,C
+179,tilak,C
+180,ashwin,C
+181,boult,D
+182,arshaddep,D
+183,akash,D
+184,siraj,D
+185,gayle,D
+186,samuels,D
+187,sammy,D
+188,holder,D
+189,pollard,D
+190,ruseel,D
+191,johny,D
+192,dilshan,D
+193,sangakara,D
+194,kumble,D
+195,aarav,D
+196,aditi,D
+197,aditya,D
+198,akansha,D
+199,akshay,D
+200,alok,D
+201,aman,D
+202,amritha,D
+203,anand,D
+204,shreyas,D
+205,ankitha,D
+206,arjun,D
+207,arpitha,D
+208,ashish,D
+209,ashiwini,D
+210,avinash,D
+211,ayushi,D
+212,bhavana,D
+213,bhavesh,D
+214,chaithu,D
+215,charan,D
+216,deepak,D
+217,deepti,D
+218,devansh,D
+219,nair,D
+220,dinesh,D
+221,karun,D
+222,reddy,D
+223,vippan,D
+224,ekta,D
+225,gaurav,D
+226,geeta,D
+227,harish,D
+228,sudheer,D
+229,harini,D
+230,himanshu,D
+231,jai prakash,D
+232,harish,D
+233,ishitha,D
+234,jaanu,D
+235,keerthi,D
+236,kavya,D
+237,mohan,D
+238,monica,D
+239,manish,D
+240,madhuri,D
+241,lokesh,E
+242,madhuri,E
+243,madhu,E
+244,neeraj,E
+245,rinki,E
+246,nisha,E
+247,Neha Verma,E
+248,nikhil,E
+249,raju,E
+250,munna,E
+251,ajju bhai,E
+252,Neha Verma,E
+253,nikhil,E
+254,sheety,E
+255,prakash,E
+256,rakesh,E
+257,ruchi,E
+258,Tanya Naidu,E
+259,sandhya,E
+260,sameer,E
+261,arju deshwal,E
+262,tanvi,E
+263,swathi,E
+264,sudha,E
+265,savithri,E
+266,suneela,E
+267,varun,E
+268,nithin,E
+269,nikky,E
+270,rakshith,E
+271,satya,E
+272,dhoni,E
+273,patel,E
+274,allu arjun,E
+275,yassu,E
+276,manoj,E
+277,thodu,E
+278,agarwal,E
+279,kashi,E
+280,madhu keerhi,E
+281,don,E
+282,bhai,E
+283,patela,E
+284,manasa,E
+285,sahithi,E
+286,sai,E
+287,viru bhai,E
+288,narayana,E
+289,shamala,E
+290,purna,E
+291,arthi,E
+292,sanjay,E
+293,vani,E
+294,sahil,E
+295,monisha,E
+296,gajala,E
+297,mushi,E
+298,tom,E
+299,patlu,E
+300,motu,E

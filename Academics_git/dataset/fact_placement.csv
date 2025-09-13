@@ -1,0 +1,301 @@
+student_id,company_name,placed,CTC,off/on_campus
+1,Tata Steel,Yes,4,on_campus
+2,Google,Yes,5.6,on_campus
+3,LTI,Yes,7,on_campus
+4,Zomato,Yes,5,on_campus
+5,Cisco,Yes,3.5,on_campus
+6,Reliance Jio,Yes,8,on_campus
+7,Zomato,Yes,12,on_campus
+8,KPMG,Yes,25,on_campus
+9,Flipkart,Yes,3,on_campus
+10,SAP,Yes,7,on_campus
+11,Amazon,Yes,9,on_campus
+12,Reliance Jio,Yes,5.6,on_campus
+13,Freshworks,Yes,7.4,on_campus
+14,Amazon,Yes,6.9,on_campus
+15,Qualcomm,Yes,5.4,on_campus
+16,IBM,Yes,6.6,on_campus
+17,Deloitte,Yes,8,on_campus
+18,Paytm,Yes,9,on_campus
+19,Freshworks,Yes,7,on_campus
+20,Swiggy,Yes,7,on_campus
+21,Byju's,Yes,6.4,on_campus
+22,Swiggy,Yes,5.4,on_campus
+23,Hexaware,Yes,3.9,on_campus
+24,UST Global,Yes,6,on_campus
+25,Adobe,Yes,15,on_campus
+26,Dell,Yes,4,on_campus
+27,Swiggy,Yes,16,on_campus
+28,PhonePe,Yes,4,on_campus
+29,Ola,Yes,7,on_campus
+30,Wipro,Yes,7.9,on_campus
+31,IBM,Yes,9.8,on_campus
+32,Paytm,Yes,6.3,on_campus
+33,Hexaware,Yes,7.7,on_campus
+34,Oracle,Yes,4.4,on_campus
+35,Google,Yes,3.2,on_campus
+36,KPMG,Yes,5.2,on_campus
+37,EY,Yes,6.6,on_campus
+38,Adobe,Yes,7,on_campus
+39,Virtusa,Yes,6.3,on_campus
+40,Mahindra,Yes,4.1,on_campus
+41,Kotak Bank,Yes,2.7,on_campus
+42,EY,Yes,3.4,on_campus
+43,SBI,Yes,4.5,on_campus
+44,SBI,Yes,5.5,on_campus
+45,SBI,Yes,6.6,on_campus
+46,Amazon,Yes,6.9,on_campus
+47,KPMG,Yes,3.4,on_campus
+48,Tech Mahindra,Yes,6,on_campus
+49,Google,Yes,15,on_campus
+50,TCS,Yes,4,on_campus
+51,Zoho,Yes,16,on_campus
+52,HP,Yes,4,on_campus
+53,ICICI Bank,Yes,7,on_campus
+54,Deloitte,Yes,7.9,on_campus
+55,Freshworks,Yes,9.8,on_campus
+56,KPMG,Yes,6.3,on_campus
+57,IBM,Yes,7.7,on_campus
+58,Tech Mahindra,Yes,4.4,on_campus
+59,Hexaware,Yes,8.65,on_campus
+60,Kotak Bank,Yes,5.11,on_campus
+61,Byju's,Yes,7.67,on_campus
+62,Swiggy,Yes,5.67,on_campus
+63,Zoho,Yes,8.25,on_campus
+64,Wipro,Yes,8.85,on_campus
+65,Tech Mahindra,Yes,9.87,on_campus
+66,Microsoft,Yes,9.59,on_campus
+67,Uber,Yes,8.09,on_campus
+68,HP,Yes,7.83,on_campus
+69,PwC,Yes,7.37,on_campus
+70,Godrej,Yes,6.41,on_campus
+71,PhonePe,Yes,5.61,on_campus
+72,PwC,Yes,3.71,on_campus
+73,Airtel,Yes,6.39,on_campus
+74,HP,Yes,4.53,on_campus
+75,Freshworks,Yes,6.69,on_campus
+76,PhonePe,Yes,8.55,on_campus
+77,Nvidia,Yes,5.93,on_campus
+78,Google,Yes,8.45,on_campus
+79,ICICI Bank,Yes,7.93,on_campus
+80,Deloitte,Yes,6.35,on_campus
+81,Virtusa,Yes,5.75,on_campus
+82,Godrej,Yes,9.29,on_campus
+83,LTI,Yes,8.95,on_campus
+84,LTI,Yes,7.15,on_campus
+85,Flipkart,Yes,4.99,on_campus
+86,Nvidia,Yes,5.31,on_campus
+87,Swiggy,Yes,3.89,on_campus
+88,Microsoft,Yes,7.09,on_campus
+89,Byju’s,Yes,6.73,on_campus
+90,PhonePe,Yes,8.13,on_campus
+91,Qualcomm,Yes,9.21,on_campus
+92,Kotak Bank,Yes,3.47,on_campus
+93,Virtusa,Yes,6.05,on_campus
+94,Kotak Bank,Yes,7.51,on_campus
+95,Mahindra,Yes,4.75,on_campus
+96,Nvidia,Yes,5.89,on_campus
+97,Cisco,Yes,8.73,on_campus
+98,SAP,Yes,6.19,on_campus
+99,Flipkart,Yes,9.43,on_campus
+100,UST Global,Yes,4.21,on_campus
+101,Deloitte,Yes,7.29,on_campus
+102,Intel,Yes,5.49,on_campus
+103,Deloitte,Yes,8.37,on_campus
+104,HCL,Yes,6.87,on_campus
+105,Amazon,Yes,7.05,on_campus
+106,KPMG,Yes,3.53,on_campus
+107,Microsoft,Yes,8.61,on_campus
+108,SBI,Yes,4.67,on_campus
+109,HDFC Bank,Yes,6.27,on_campus
+110,Godrej,Yes,9.11,on_campus
+111,Cognizant,Yes,5.95,on_campus
+112,Tech Mahindra,Yes,7.77,on_campus
+113,Deloitte,Yes,8.07,on_campus
+114,Virtusa,Yes,6.13,on_campus
+115,HCL,Yes,4.39,on_campus
+116,Qualcomm,Yes,9.55,on_campus
+117,Deloitte,Yes,7.61,on_campus
+118,Google,Yes,5.27,on_campus
+119,Kotak Bank,Yes,6.99,on_campus
+120,Wipro,Yes,3.81,on_campus
+121,Zomato,Yes,8.79,on_campus
+122,ICICI Bank,Yes,7.19,on_campus
+123,Tech Mahindra,Yes,9.33,on_campus
+124,Intel,Yes,6.57,on_campus
+125,EY,Yes,4.83,on_campus
+126,Ola,Yes,5.47,on_campus
+127,Cognizant,Yes,7.85,on_campus
+128,PhonePe,Yes,8.19,on_campus
+129,Swiggy,Yes,6.45,on_campus
+130,Cognizant,Yes,9.01,on_campus
+131,Accenture,Yes,5.71,on_campus
+132,ICICI Bank,Yes,4.29,on_campus
+133,PwC,Yes,7.49,on_campus
+134,LTI,Yes,6.93,on_campus
+135,Cisco,Yes,8.31,on_campus
+136,Airtel,Yes,9.69,on_campus
+137,IBM,Yes,7.39,on_campus
+138,Adobe,Yes,3.65,on_campus
+139,Zomato,Yes,5.85,on_campus
+140,Reliance Jio,Yes,8.93,on_campus
+141,Axis Bank,Yes,6.23,on_campus
+142,Kotak Bank,Yes,7.55,on_campus
+143,Freshworks,Yes,9.17,on_campus
+144,Accenture,Yes,4.95,on_campus
+145,Accenture,Yes,6.63,on_campus
+146,Amazon,Yes,8.49,on_campus
+147,Paytm,Yes,7.21,on_campus
+148,Flipkart,Yes,5.53,on_campus
+149,Flipkart,Yes,9.23,on_campus
+150,PhonePe,Yes,0.67,off_campus
+151,PwC,Yes,1.45,off_campus
+152,Paytm,Yes,2.87,off_campus
+153,Freshworks,Yes,3.56,off_campus
+154,Uber,Yes,4.98,off_campus
+155,Godrej,Yes,5.76,off_campus
+156,PwC,Yes,6.23,off_campus
+157,Uber,Yes,7.45,off_campus
+158,Amazon,Yes,8.99,off_campus
+159,TCS,Yes,9.34,off_campus
+160,HCL,Yes,0.89,off_campus
+161,Qualcomm,Yes,1.21,off_campus
+162,ICICI Bank,Yes,2.65,off_campus
+163,Godrej,Yes,3.98,off_campus
+164,UST Global,Yes,4.12,off_campus
+165,Zomato,Yes,5.34,off_campus
+166,TCS,Yes,6.78,off_campus
+167,Airtel,Yes,7.12,off_campus
+168,Kotak Bank,Yes,8.43,off_campus
+169,PwC,Yes,9.78,off_campus
+170,Ola,Yes,0.23,off_campus
+171,TCS,Yes,1.67,off_campus
+172,TCS,Yes,2.32,off_campus
+173,SAP,Yes,3.76,off_campus
+174,EY,Yes,4.21,off_campus
+175,Tech Mahindra,Yes,5.65,off_campus
+176,Adobe,Yes,6.98,off_campus
+177,Intel,Yes,7.56,off_campus
+178,Persistent,Yes,8.12,off_campus
+179,UST Global,Yes,9.45,off_campus
+180,Wipro,Yes,0.56,off_campus
+181,Tech Mahindra,Yes,1.89,off_campus
+182,Tech Mahindra,Yes,2.43,off_campus
+183,UST Global,Yes,3.12,off_campus
+184,Nvidia,Yes,4.76,off_campus
+185,Airtel,Yes,5.98,off_campus
+186,LTI,Yes,6.45,off_campus
+187,Cognizant,Yes,7.67,off_campus
+188,Adobe,Yes,8.34,off_campus
+189,Persistent,Yes,9.21,off_campus
+190,LTI,Yes,8.65,off_campus
+191,SBI,Yes,5.11,off_campus
+192,Capgemini,Yes,7.67,off_campus
+193,Microsoft,Yes,5.67,off_campus
+194,EY,Yes,8.25,off_campus
+195,HDFC Bank,Yes,8.85,off_campus
+196,SBI,Yes,9.87,off_campus
+197,Asian Paints,Yes,9.59,off_campus
+198,Asian Paints,Yes,8.09,off_campus
+199,IBM,Yes,7.83,off_campus
+200,Kotak Bank,Yes,7.37,off_campus
+201,IBM,Yes,6.41,off_campus
+202,UST Global,Yes,5.61,off_campus
+203,Byju's,Yes,3.71,off_campus
+204,Uber,Yes,6.39,off_campus
+205,SAP,Yes,4.53,off_campus
+206,Mindtree,Yes,6.69,off_campus
+207,HCL,Yes,8.55,off_campus
+208,Byju's,Yes,5.93,off_campus
+209,UST Global,Yes,8.45,off_campus
+210,Byju's,Yes,7.93,off_campus
+211,,No,,
+212,,No,,
+213,,No,,
+214,,No,,
+215,,No,,
+216,,No,,
+217,,No,,
+218,,No,,
+219,,No,,
+220,,No,,
+221,,No,,
+222,,No,,
+223,,No,,
+224,,No,,
+225,,No,,
+226,,No,,
+227,,No,,
+228,,No,,
+229,,No,,
+230,,No,,
+231,,No,,
+232,,No,,
+233,,No,,
+234,,No,,
+235,,No,,
+236,,No,,
+237,,No,,
+238,,No,,
+239,,No,,
+240,,No,,
+241,,No,,
+242,,No,,
+243,,No,,
+244,,No,,
+245,,No,,
+246,,No,,
+247,,No,,
+248,,No,,
+249,,No,,
+250,,No,,
+251,,No,,
+252,,No,,
+253,,No,,
+254,,No,,
+255,,No,,
+256,,No,,
+257,,No,,
+258,,No,,
+259,,No,,
+260,,No,,
+261,,No,,
+262,,No,,
+263,,No,,
+264,,No,,
+265,,No,,
+266,,No,,
+267,,No,,
+268,,No,,
+269,,No,,
+270,,No,,
+271,,No,,
+272,,No,,
+273,,No,,
+274,,No,,
+275,,No,,
+276,,No,,
+277,,No,,
+278,,No,,
+279,,No,,
+280,,No,,
+281,,No,,
+282,,No,,
+283,,No,,
+284,,No,,
+285,,No,,
+286,,No,,
+287,,No,,
+288,,No,,
+289,,No,,
+290,,No,,
+291,,No,,
+292,,No,,
+293,,No,,
+294,,No,,
+295,,No,,
+296,,No,,
+297,,No,,
+298,,No,,
+299,,No,,
+300,,No,,
